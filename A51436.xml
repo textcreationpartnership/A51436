@@ -1,0 +1,516 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religious meditations on Ecclesiastes, Chap. 12. vers. 13, 14</title>
+            <author>Mosse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51436</idno>
+            <idno type="STC">Wing M2857A</idno>
+            <idno type="STC">ESTC R221919</idno>
+            <idno type="EEBO-CITATION">99833164</idno>
+            <idno type="PROQUEST">99833164</idno>
+            <idno type="VID">37639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2192:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religious meditations on Ecclesiastes, Chap. 12. vers. 13, 14</title>
+                  <author>Mosse, John.</author>
+               </titleStmt>
+               <extent>[8], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Mosse, Jun.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes XII, 13-14 --  Meditations --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37639:1"/>
+            <pb facs="tcp:37639:1" rendition="simple:additions"/>
+            <p>RELIGIOUS MEDITATIONS ON Eccleſiaſtes, Chap. 12. Verſ. 13, 14.</p>
+            <q>
+               <p>Let us hear the Concluſion of the whole matter, Fear God and keep his Com<g ref="char:EOLhyphen"/>mandments: for this is the whole Duty Man. For God ſhall bring every work into Judgment, with every Secret thing, whether it be good, or whether it be evil.</p>
+            </q>
+            <q>
+               <p>I will Meditate in thy Precepts, and have reſpect unto thy ways. I will delight my ſelf in thy Statutes: I will not forget thy word. — Oh how I love thy Law! it is my Meditation all the day. <bibl>
+                     <hi>Pſal 119. Verſ. 15, 16.97.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37639:2"/>
+            <pb facs="tcp:37639:2"/>
+            <head>DEDICATION. TO THE Piouſly affected Young Man.</head>
+            <opener>
+               <salute>My Beloved Friend,</salute>
+            </opener>
+            <p>AS it hath pleaſed the God of Infinite Mercy to incline our heart to ſeek after him in our ten<g ref="char:EOLhyphen"/>der years, and to give us a clear perception of thoſe things which per<g ref="char:EOLhyphen"/>tains to Eternal Life and Salvation, ſo hath be alſo, (Glory to his Name in the Higheſt!) given us cauſe to teſtifie to the truth of that promiſe,<note place="margin">Pro. 8.17.</note> 
+               <hi>Thoſe that ſeek me early ſhall find me.</hi>
+            </p>
+            <p>And altho' ſecular concerns may ſometimes be ready to prevail, yet in retired and ſerene Speculations of mind, the vanity of all created ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects is diſcerned, and the Soul meet<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:37639:3"/>
+with nothing of Satisfaction here below, Soars aloft to a Supream being, its proper center and place of reſt; from whence is beheld the World, with all its fulneſs, as only filth and dregs, and unworthy for an Immor<g ref="char:EOLhyphen"/>tal Soul, to be wholy imployed in: In ſuch contemplations being exer<g ref="char:EOLhyphen"/>cis'd, amidſts various occaſions for thoughts of another kind, I have many times been fully ſenſible of the blindneſs that is over the Hearts of Men, who are preferring tranſitory and earthly Goods, to real and dur<g ref="char:EOLhyphen"/>able Riches, and that are ſeeking more earneſtly for Treaſure here be<g ref="char:EOLhyphen"/>low,<note place="margin">Matth. 6.19, 20.33.</note> than to lay it up in Heaven, where Moth or Ruſt cannot corrupt, nor Theif break through and Steal; and deſires have been rais'd to obey the precepts of Jeſus, who ſaid, Firſt ſeek the Kingdom of Heaven and the Righteouſneſs thereof, <hi>&amp;c.</hi>
+            </p>
+            <p>And that ſuch deſires may be ſtrengthen'd and encourag'd let us wait upon the Lord, let us truſt and
+<pb facs="tcp:37639:3"/>
+repoſe all our confidence in him, and he will provide for all our wants, all our neceſſities of what relation ſoever ſhall be ſupplied, and we ſhall be up<g ref="char:EOLhyphen"/>held through all occaſions of falling, that we may paſs through: But Oh that we may not preſume to think of ſecurity by a God that we do not know, let us feel after him, in whom we live, move, and have our being;<note place="margin">Acts 17.22.31.</note> he is not far from any, altho' they may be who<g ref="char:EOLhyphen"/>ly Ignorant of it: But he is imper<g ref="char:EOLhyphen"/>ceptable to the Carnal in Heart, they are wholly ſtrangers to him, he be<g ref="char:EOLhyphen"/>holds them a far off: But let us meditate on his Laws, that we may be partakers of his Bleſſings, and let us be low and humble, that we may inherit his Glory,<note place="margin">Prov. 3.34, 35</note> who ſcorneth the ſcornful, and giveth Grace unto the lowly in Heart.</p>
+            <p>To the improvement of my recei<g ref="char:EOLhyphen"/>ved Talent, are theſe following Me<g ref="char:EOLhyphen"/>ditations produc'd; and I expoſe them to publick view; not to be taken for a Methodical comment, or learn<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:37639:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:37639:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:37639:5"/>
+expoſition: For as I am too young, and uncapable (were there occaſion) for ſuch a Work, ſo am I Old enough to ſee, that too many of the Books, a<g ref="char:EOLhyphen"/>broad in the World, of ſuch a kind, prove more to the confuſion then con<g ref="char:EOLhyphen"/>firmation of the Readers, eſpecially when they treat of places hard to be underſtood. But thoſe comprehenſive words that I make the Subject of my thoughts;<note place="margin">Eccleſ. 12.13, 14.</note> as it is one of the moſt full, ſo tis of the moſt eaſie and intelliga<g ref="char:EOLhyphen"/>ble places of Scripture, which I choſe to exerciſe my privat Meditations on; not deſigning (at the firſt) that they ſhould appear in this publick manner: And if any, remote from God ſhould hereby he induced to ap<g ref="char:EOLhyphen"/>proach the throne of his Grace, and return from the evil of their ways, then ſhall I think the Publication hereof to be done in a happy Hour: But if it be ſo unſucceſsful, as to work no ſuch effect, yet my comfort is, that it has been a greater benefit to my ſelf, than it can be a hurt to any.</p>
+            <p>
+               <pb facs="tcp:37639:5"/>And that thou (Pious Reader) maye'ſt be further encouraged, I pre<g ref="char:EOLhyphen"/>ſent thee with theſe following metu<g ref="char:EOLhyphen"/>cally expreſt Cogitations.</p>
+            <q>
+               <l>Contemn the World, its Glory all deſiſe,</l>
+               <l>It is too baſe for noble minds to prize;</l>
+               <l>How vain and empty is its three fold Treaſure,</l>
+               <l>Compris'd in Honour, Profit and in Pleaſure?</l>
+               <l>We know ſuch Honours baſe, and ſuch eſteem</l>
+               <l>Is ſet, not as we are, but as we ſeem;</l>
+               <l>Tis like a new Blown, but a fading flower,</l>
+               <l>Of ſmall continuance, and of ſmaller power;</l>
+               <l>It gives no real content, no laſting peace,</l>
+               <l>But as a blaſt of Wind doth puff and ceaſe;</l>
+               <l>If lean'd upon, 'tis but a broken reed;</l>
+               <l>And only doth our craſy fancies feed.</l>
+               <l>But not our Souls, they muſt have food Divine.</l>
+               <l>That's ſuiting to their <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, elſ they pine.</l>
+               <l>And then for profit; how can we obtain,</l>
+               <l>A real, ſufficient, and a ſollid gain;</l>
+               <l>That will to ſuch a laſting profit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end,</l>
+               <l>As will not fail to be, a comfort in the end.</l>
+               <l>This lower Region will not yeild, I'm ſure,</l>
+               <l>One grain of gain that always can endure;</l>
+               <l>We know ſuch Earthly pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'s eſteem'd for Wealth.</l>
+               <l>That can't afford our craſy Bodies Health;</l>
+               <l>Much leſs can all its combin'd force prevail,</l>
+               <l>To yeild content, when final fears aſſail.</l>
+               <l>The troubled Soul, which rowls in ſorrow now.</l>
+               <l>And from its high flown Seat, in forc'd to bow<g ref="char:punc">▪</g>
+               </l>
+               <l>To th' pale attacques of Death, whoſe mighty power,</l>
+               <l>No ſtrength of Riches can defer an hour.</l>
+               <l>
+                  <pb facs="tcp:37639:6"/>But Pleaſures limits ſeem of moſt extent,</l>
+               <l>As to afford a joy without relent;</l>
+               <l>And Peoples minds are wrapt ſo far therein,</l>
+               <l>As not to deem the worſer of 'em Sin;</l>
+               <l>So ſwiming in this Sea of vain delight,</l>
+               <l>Are plung'd into that dark and diſmal night.</l>
+               <l>Of an Eternal Woe, a juſt reward</l>
+               <l>To thoſe that think their Souls not worthy of regard</l>
+               <l>But Oh let's flie the cauſe of ſuch neglect,</l>
+               <l>That ſo we mayn't be curſed by its ſad effect.</l>
+               <l>And with an Elevated Soul aſpire,</l>
+               <l>Above theſe mean delights to ſomething higher,</l>
+               <l>That, to a Soul enflamed with Celeſtial fire,</l>
+               <l>Seems worthy of purſuit, and of a great deſire?</l>
+               <l>And as one glimps thereof, does Elevate the Soul,</l>
+               <l>In what an extaſie will all our Spirits roul;</l>
+               <l>When that moſt dazeling Glory ſhall appear,</l>
+               <l>To Principate our joy, and end our fear?</l>
+               <l>Then ſhall we ſound eternal Hymns and Lays,</l>
+               <l>Of Anthems, Songs, and never ending Praiſe,</l>
+               <l>Unto our great Creator, whom we muſt</l>
+               <l>Admire at in his Love, to make of Duſt</l>
+               <l>Poor Creatures; and at laſt to make 'em bleſt,</l>
+               <l>By the enjoyment of an Everlaſting reſt.</l>
+            </q>
+            <closer>
+               <signed>By <hi>John Moſſe,</hi> Jun. <hi>Aetat. Anno</hi> 19/20.</signed>
+               <dateline>
+                  <hi>Baldock, Hertford-ſhire,</hi> 
+                  <date>the 20th of <hi>April,</hi> 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37639:6"/>
+            <head>RELIGIOUS MEDITATIONS, On <hi>Eccleſ.</hi> Ch. 12. Ve. 13, 14.</head>
+            <p>THE Wiſe Preacher,<note place="margin">1 Kings 3.9.13.10.23.4.30. 2 Chron. 1.10.12. Eccleſ. 12.9.10.</note> whoſe Supplication was for Wiſ<g ref="char:EOLunhyphen"/>dom, which the Lord not only granted, but added thereto both <hi>Riches</hi> and <hi>Honour,</hi> ſo that he excelled all the Kings of the Earth; after he had ſought out, and ſet in order many <hi>Proverbs,</hi> and accept<g ref="char:EOLhyphen"/>able <hi>Words,</hi> even <hi>Words of Truth;</hi> after he had ſurvei'd the Univerſe of Knowledge,<note place="margin">1 Kings 4.33. Eccleſ. 7.20, 21.</note> the Nature of all li<g ref="char:EOLhyphen"/>ving <hi>Creatures,</hi> of <hi>Herbs</hi> and <hi>Plants,</hi> in a ſingular manner; and in ſhort, had attaind to the higheſt degree of knowledge, gives this poſitive Sen<g ref="char:EOLhyphen"/>tence
+<pb n="2" facs="tcp:37639:7"/>
+on it,<note place="margin">Eccleſ. 12.8.12.</note> 
+               <hi>All Vanity of Vanity, all is Vanity:</hi> And having in this ſure and certain ſenſe Admoniſh'd, that of making many <hi>Books</hi> there is no end, and that much Study is a wearineſs of the Fleſh, he winds up his ſearch and ſcrutiny, his ſtudy and writing, with a moſt profound and comprehenſive Exhortation, <hi>Fear God, Keep his Commandments,</hi> to which as a moſt urgent motive, he adjoyns, <hi>For God ſhall bring in<g ref="char:EOLhyphen"/>to Judgment every Work.</hi>
+            </p>
+            <p>A ſolid conſideration of which has ſo wrought on the minds of ſome, that have been Tranſported with deſires of humane Learning, that not being inſenſible of an ac<g ref="char:EOLhyphen"/>count to be rendred for every ſe<g ref="char:EOLhyphen"/>cret thing, much more for every action, they have been willing to abandon all inordinate inclinatons thereunto, animated by Love of vain applauſe, all ſtudies and ſcrutinies, that may in the leaſt Impede their hearkning to the Voice of Wiſdom,
+<pb n="3" facs="tcp:37639:7"/>
+which is pathetically expreſt in the words of <hi>Solomon's</hi> concluſion; which I make the ſubject of my thoughts and wrighting at this time; and indeed ſo deep, grave, and earneſt is the ſame, that to a Soul diſentangled from Worldly cogitations, and in whom any good deſires are begotten, no other con<g ref="char:EOLhyphen"/>ſiderations will receive ſo willing an Entertainment: inſomuch as it contains the moſt ſerious, ſenſible, judicious, and laſt words of the moſt knowing and underſtanding of <hi>Mortals;</hi> whoſe Wiſdom, than herein, in all his writings never more appeared.</p>
+            <p>With ſuch attentive thoughts I will endeavour <hi>(Dei gratiâ)</hi> a fir<g ref="char:EOLhyphen"/>mer impreſſion, by making curſo<g ref="char:EOLhyphen"/>ry remarks upon it.</p>
+            <p>
+               <hi>Let us hear,</hi> I exhort you to it, I can't compel, neither do I deſire it, but as one that hath obtain'd favour of the Lord,<note place="margin">Eccleſ. 47.22.</note> that has been partaker, not only of his mercies,
+<pb n="4" facs="tcp:37639:8"/>
+but of his Judgments alſo,<note place="margin">2 Sam. 7.12.16. Pſa. 89.30.36.</note> and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the firſt are comfortable but the laſt terrible, ſo I would entreat you in that Love and good will, enkind<g ref="char:EOLhyphen"/>led in me by a ſpark from Heaven by embracing the one to avoid the other; I have taſted of both, and have ſeen Mercy prevailing over Judgment: Further (may the Preacher ſay) I have been a Man furniſhed with the moſt compleat body of knowledge,<note place="margin">Wiſd. 7.87.21.</note> accompliſhed with a deep skill in all kind of ſci<g ref="char:EOLhyphen"/>ence, it has been all unvailed to me; Nature and Art have I view'd the one in the cleareſt diſcoveries of its hidden ſecrets, the other in a moſt ſubtile preception of its high<g ref="char:EOLhyphen"/>eſt perfections: Knowledge has vaild its bonnet to me, and lies couching at my Feet; Underſtand<g ref="char:EOLunhyphen"/>ing hath been my conſtant collegue and Wiſdom never departed from me: I have ſurvey'd all the whole creation, its Nature and uſe; the ſecret influences of the Heavens
+<pb n="5" facs="tcp:37639:8"/>
+with the ſympathy of Terreſtrials, the whole Kingdom of Nature hath been ſubject to me, <hi>Animals</hi> and <hi>Vegetives,</hi> the diſpoſitions of Men and all other living Creatures, their diverſe conſtitutions, and the oc<g ref="char:EOLhyphen"/>cult and Magical powers of Herbs and Plants, from the <hi>Hyſſop</hi> to the lofty <hi>Cedar,</hi> I have ſcrutinis'd, to<g ref="char:EOLhyphen"/>gether with the Nature of <hi>Pearls,</hi> and Precious Stones, yea, the whole mineral Kingdom: yet further (hear the excellant Preacher) I was King of a mighty Nation,<note place="margin">1 Kings 4.24.34.10.23, 24 2 Chron. 9.22.26.</note> before nor after me none can compare to my Grandeur, Riches and Honour encompaſs'd me about, the heighth of worldly greatneſs was my Poſſeſ<g ref="char:EOLhyphen"/>ſion; Kings did me homage, and Foreign Princes bow'd unto me, and paid me reverance: I had multi<g ref="char:EOLhyphen"/>tudes of Chariots and Horſemen, Men Servants and Maid Servants, and what ſoever my Heart deſired: I builded me Houſes and a glorious Temple, excelling in curious Art,
+<pb n="6" facs="tcp:37639:9"/>
+my Wiſdom directed me in it moreover the Fame of my Wiſdom reached to the further parts of the World,<note place="margin">1 Kings. 6.7. Eccleſ. 2.4.8.</note> which gain'd me an Hon<g ref="char:EOLhyphen"/>ourable reverance of all;<note place="margin">Eccleſ. 1.16.</note> then com<g ref="char:EOLhyphen"/>muning with my own Heart, I ſaid, Lo I am come to great Eſtate, and have gotten me more Wiſdom than all that have been before me in <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> yea, my Heart hath had great experience of Wiſdom and Knowledge; wherefore let me be eſteem'd as a competent Judge of all enjoyments, inſomuch that I know and have tryed them all: Let Earthly Kings have reſpect to the Counſel of their moſt wiſe Prede<g ref="char:EOLhyphen"/>ceſſor, that knew the Glory, the Pleaſure, and the content of a King<g ref="char:EOLhyphen"/>dom, he that was skill'd in the o<g ref="char:EOLhyphen"/>economie of a Politick Body, a mighty and unreſiſted <hi>Monarch,</hi> to whom the craft of State and Coun<g ref="char:EOLhyphen"/>cils was not conceal'd; He deveſts himſelf of all, derogates from the Royalty of the World, and ſays,
+<pb n="7" facs="tcp:37639:9"/>
+               <hi>Let us hear;</hi> In a tender, Familiar, and low manner of expreſſion, ſome would think below the Dignity of a King.</p>
+            <p>But no doubt the Wiſdom which inſpir'd his Soul, ſaw occaſion for ſuch an humble ſtile; and that all might be prevail'd upon by this his moſt ſenſible admonition, he is wil<g ref="char:EOLhyphen"/>ling to conjoyn with them in this needful Duty: <hi>Let us hear,</hi> we that are endow'd with Wiſdom, that are anxious in acquiring underſtan<g ref="char:EOLhyphen"/>ding, that are ſollicitous in ſeeking humane Knowledge; I have been expert therein, and from thence aſſure yea, that this is the greateſt Wiſdom; and further, that your ſelves, if not now, will have cauſe to confeſs unto it; For a time will come, wherein you will be ſenſible of the deficiency of all your vain conceipts,<note place="margin">1 Cor. 3.19, 20.</note> when the Wiſdom of the Wiſe will be turn'd into Fooliſh<g ref="char:EOLhyphen"/>neſs, and all the Crafty ſhall be confounded. <hi>Let us hear</hi> (ſays
+<pb n="8" facs="tcp:37639:10"/>
+the King) we that are Potentates in the Earth, to whom is commited ſomething of an Earthly Power, I have been great and mighty, yea far exceeding any of you, the Dom<g ref="char:EOLhyphen"/>inion of my Government was largly extended, and I was not only Ruler of many but of my own ſelf, I was endued with Wiſdom, Divine and Humane in the higheſt perfection that Man can poſſeſs; and muſt de<g ref="char:EOLhyphen"/>clare, that your Policy and Stately Craft, as 'tis far inferior to true Wiſ<g ref="char:EOLhyphen"/>dom, ſo ſome higher degree of Know<g ref="char:EOLhyphen"/>ledge is requiſit to a truly knowing King; I know the intreagues of Go<g ref="char:EOLhyphen"/>vernment, having from my Youth been exercis'd therein, having diſ<g ref="char:EOLhyphen"/>penc'd Laws and Statutes from the dictates of an Heavenly Wiſdom, and having had a perfect underſtanding in all regal affaires: From whence I counſel ye to hear the reſult of all my Wiſdom, and fear not to give ear to my advice, it proceeds from Knowledge, Wiſdom, and Love un<g ref="char:EOLhyphen"/>feigned,
+<pb n="9" facs="tcp:37639:10"/>
+and will not fail to prove beneficial, if obey'd; if an experi<g ref="char:EOLhyphen"/>enc'd Counſellour may be regarded, if an honeſt Politician can gain any credit, let me have ſome attention, (ſays the King of <hi>Jſrael.</hi>)</p>
+            <p>
+               <hi>Again,</hi> Let us hear, we that have large poſſeſſions, that be Rich in the Earth, we that are fill'd with Worldly enjoyments, that as it were, have the World at our beck, we that are at eaſe in our pleaſure, that command the World with our Wealth, we that flatter our ſelves with hopes of perpetual bliſs, and ſome of us that think this falſe Joy will never come to an end, be ye advis'd and conſider;<note place="margin">1 Kin. 10.17.</note> I have had moſt boundleſs poſſeſſions, and made Silver as plentiful as ſtones in the ſtreet, yet I ſee the vanity of all theſe empty enjoyments, how ſhort they be in yeilding true and laſting Peace; Could they ſo have done, I ſhould have been bleſs'd a<g ref="char:EOLhyphen"/>bove all, but now reſt ſenſible of
+<pb n="10" facs="tcp:37639:11"/>
+the inſufficiency and uncertainty of them, Riches make themſelve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wings, and flie away, they canno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deliver in a day of Trouble; there<g ref="char:EOLunhyphen"/>fore let them be no longer as ſtrong hold in your imagination<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither take them for the upholder of a laſting Peace, for I know how little ſafety can be repos'd in them and further,<note place="margin">1 Tim. 6.7.10.</note> that they are more o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ten Snares by which Men are en<g ref="char:EOLunhyphen"/>tangl'd, than they be uſeful or con<g ref="char:EOLunhyphen"/>ducing to their good: Let ſuch thoughts and conſiderations (ſay the Preacher) incline ye to ſay with me; <hi>Let us hear the conclu<g ref="char:EOLunhyphen"/>ſion of the whole matter,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">Eccleſ. 12.1.</note>Our excellent Preacher having in the precedent part of the Chap<g ref="char:EOLunhyphen"/>ter, given ſome tender admonition to the younger People, none con<g ref="char:EOLhyphen"/>cludes to all, with ſo full a compen<g ref="char:EOLunhyphen"/>dium of Humane duty, as nothing in ſuch a relation is excluded wherein appear'd, not only hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great and ſpacious Knowledge, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:37639:11"/>
+alſo his reform'd apprehenſion of the future eſtate of Men, as well <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a ſenſible demonſtration of his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſubmition to his great Creator, againſt whom he had tranſgreſs'd, by his ſubjection to the Power of concupiſcence: But this (as 'tis beleiv'd) being of a poſteriour edi<g ref="char:EOLhyphen"/>tion, proves him a partaker of the promiſed reſpite of affliction juſtly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid upon him; I will for this afflict the Seed of <hi>David,</hi> but not for ever, I will chaſtiſe him in Judgment,<note place="margin">2 Sam. 12 16. Pſal. 89.30.36.</note> but my loving kindneſs ſhall not be ta<g ref="char:EOLunhyphen"/>ken away: and therefore I doubt not, but he by reſignation and re<g ref="char:EOLhyphen"/>pentance, was bleſt with a reſtora<g ref="char:EOLhyphen"/>tion of his unparrallel'd Wiſdom; becauſe the meekneſs, humility, and charity compris'd herein, ſeems no other than the ejaculation of a Spiritualliz'd Man, the effect of di<g ref="char:EOLhyphen"/>vine mercy alone; to which alſo muſt be imputed the efficient cauſe of all attention to this concluſion of the whole matter, which is to
+<pb n="12" facs="tcp:37639:12"/>
+               <hi>Fear God, and keep his Command<g ref="char:EOLunhyphen"/>ments</hi>
+            </p>
+            <p>A Reverend and Holy Fear, an entire and Godly awe, a meek and ſubmiſſive dread of Spirit, is requi<g ref="char:EOLhyphen"/>red</p>
+            <p>Fear God, keep his commands let no Worldly conſiderations, let no mean and Earthly cogitations be reſtrictive, but remember, that the great and moſt excellent Creator, whoſe preſence fills Heaven and Earth,<note place="margin">1 Kings 8.27. 2 Chron. 2.6.6.18.</note> the Heaven of Heavens can<g ref="char:EOLhyphen"/>not contain him; of Juſtice is wor<g ref="char:EOLhyphen"/>thy to be feared, reverenc'd and ſubmitted to: He is the Fountain of all our good, from whom all our mercies flow, whoſe Loving Kind<g ref="char:EOLhyphen"/>neſs never fails, whoſe Truth and Goodneſs ſuſtains the World, whoſe ſecret and moſt wiſe providence or<g ref="char:EOLhyphen"/>ders and diſpoſes of all.</p>
+            <p>
+               <hi>Vacat exiguis rebus adeſſe noſtr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jovi Curat noſter Deus &amp; ſui &amp; a<g ref="char:EOLhyphen"/>lieni.</hi> He is not only a far off, but a God near at hand to ſupport the
+<pb n="13" facs="tcp:37639:12"/>
+weak, and to comfort the afflicted, to give Joy for Mourning,<note place="margin">Iſa. 61.3.</note> the gar<g ref="char:EOLhyphen"/>ment of praiſe for the Spirit of hea<g ref="char:EOLhyphen"/>vineſs, Beauty for Aſhes, Peace and Tranquillity for trouble and ſorrow of mind:<note place="margin">2 Chron. 6.18.</note> He is an omnipreſent being, nothing can be hid from his Eyes, he beholds the ſecret actions of all, the private deceipts of Men be not unknown unto him, the dark workers of Iniquity cannot conceal themſelves: He is moſt boundleſs in power, all Nations are but as the duſt in the ballance in his Hand,<note place="margin">Iſa. 40.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.17.</note> he that by his powerful Wiſdom produc'd this worldly frame into a being, can by the ſame conſume it into nothing; let the Wiſdom of this World deny its production out of nothing, let it be employ'd in ſearching for <hi>Prima materia</hi> and <hi>cauſa <g ref="char:V">Ʋ</g>niverſalis;</hi> We know that our God is <hi>Omnipotent,</hi> that as he was able out of nothing to conſti<g ref="char:EOLhyphen"/>tute all things, ſo can he reduce all things into nothing again; the fal<g ref="char:EOLhyphen"/>len
+<pb n="14" facs="tcp:37639:13"/>
+Wiſdom of Man,<note place="margin">Areſtotle.</note> not apprehend<g ref="char:EOLhyphen"/>ing divine Wiſdom, conceiv'd the world Eternal, and ſhall we render our ſelves as weak by diſ-believing the omnipotency of our great Cre<g ref="char:EOLhyphen"/>ator: Oh! no, but let us with chearful Hearts yeild honour and reverence to his Glorious Name, who, as all have plentifully receiv<g ref="char:EOLhyphen"/>ed of his favours and mercies, ſo requires a faithful and grateful ac<g ref="char:EOLhyphen"/>knowledgment thereof, by fearing him, and obeying his commands, whereby is perform'd (through the aſſiſtance of divine Grace) that on<g ref="char:EOLhyphen"/>ly acceptable Sacrifice of pure and hearty Obedience: Firſt, by fear<g ref="char:EOLhyphen"/>ing is render'd our private worſhip and adoration of God, and Second<g ref="char:EOLhyphen"/>ly, by obeying him, or an active obſervance of his righteous Law, our duty in reſpect to our Neigh<g ref="char:EOLhyphen"/>bours, which is to love them as our ſelves,<note place="margin">Rom. 13 9, 10. Gal. 5.14</note> herein is contain'd (as ſaith the Preacher) the whole duty of Man.</p>
+            <p>
+               <pb n="15" facs="tcp:37639:13"/>But ſeeing our ſad experience gives us to know the great averſion there is lodg'd in our hearts to the deſires of, and much more ſeeking after our good, which is to fear God and keep his Commands; how carfully then ſhould we ſeek for the means of extirpating this ſo power<g ref="char:EOLhyphen"/>ful an inclination to evil, and de<g ref="char:EOLhyphen"/>clination from any thing that may be in the leaſt conducing to our chiefeſt good, and of attaining to ſuch a frame and eſtate of mind, as that we may be in a capacity to perform the duties required of us.</p>
+            <p>May we not ſorrowfully remem<g ref="char:EOLhyphen"/>ber how that our firſt Father <hi>Adam,</hi> the maſter-piece of the whole Cre<g ref="char:EOLhyphen"/>ation, an Epitome of the World, in whom was center'd an Abreviation of all things, and who was conſti<g ref="char:EOLhyphen"/>tuted Lord of all the Creatures,<note place="margin">Gen. 1.26, 27.</note> as being endued with Righteouſneſs, Knowledge, and true Holineſs; yet, by Tranſgreſſion to the Righteous Law of God, by diſobeying his Ho<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:37639:14"/>
+precepts,<note place="margin">Gen. 3. Rom. 8.20. 2 Cor. 11.3. Eccleſ. 25, 24.</note> by reaſon of vain hope by harkning to the Allurements of the Woman, by yeilding to the Se<g ref="char:EOLhyphen"/>ducements of the Serpent, and by Eating of the prohibited Fruit of the <hi>Tree of Knowledge of go d and evil,</hi>
+               <note place="margin">Gen. 3.14, <hi>to the end.</hi>
+               </note> became deprived of his ſerene and pure Felicity, loſt the gracious bene<g ref="char:EOLhyphen"/>fit of a ſweet and immediat commu<g ref="char:EOLhyphen"/>nion with his Maker, together with his Soveraignity over the whole Cre<g ref="char:EOLhyphen"/>ation:<note place="margin">Rom. 5.12.</note> Yea, Sin, and death by Sin, entred the world thereby, and the faculties of his ſoul being infected and depraved, Darkneſs and Cor<g ref="char:EOLhyphen"/>ruption ſeized his guilty Conſci<g ref="char:EOLhyphen"/>ence, the pure Image of the <hi>Deity</hi> was defaced, its paſſions and affecti<g ref="char:EOLhyphen"/>ons perverted,<note place="margin">Gen. 6.5.</note> and the puniſhment of death, which ſore-threatn'd his Rebellion in theſe terms.<note place="margin">Gen 2 17.</note> 
+               <hi>In the day thou eateſt thereof thou ſhalt ſurely die,</hi> was juſtly inflicted on him: Whereby, as he fell from that dignity he was placed in,<note place="margin">Epheſ. 4.24.</note> from that Righteouſneſs, Knowledge, and true
+<pb n="17" facs="tcp:37639:14"/>
+Holineſs he was Primitively endu<g ref="char:EOLhyphen"/>ed with, in diſobedience to God,<note place="margin">Col. 3.10.</note> liſtned to <hi>Satanical</hi> deluſions, and from thence Polluted, Tainted, and Defiled that pure, integer and Di<g ref="char:EOLhyphen"/>vine Nature, which God had In<g ref="char:EOLhyphen"/>ſpired him with; So all his Poſteri<g ref="char:EOLhyphen"/>ty partaking of that corrupt Seed and Nature, became diſabled from ſucceeding him in thoſe bleſſed Pri<g ref="char:EOLhyphen"/>viledges he enjoyed in his State of Integrity, and not only ſo,<note place="margin">Iſa. 64.5.</note> but alſo ſubject to the diſmal effect and con<g ref="char:EOLhyphen"/>ſequences of that corruption, which are death, and diſability to perform the primary end of Man's Creation:<note place="margin">Rom. 5.12.</note> 
+               <hi>Wherefore,</hi> ſaith St. <hi>Paul, as by one Man Sin entred the World, and Death by Sin, ſo Death paſſed upon all Men, for that all have Sinned;</hi> He likewiſe proved that all under Sin: And again,<note place="margin">Rom. 3.9 Rom. 5.18.19.</note> Therefore as by the offence of one, Judgment came upon all Men to condemnation; For as by one Man's diſobedience, many were made Sinners, ſo by
+<pb n="18" facs="tcp:37639:15"/>
+the obedience of one ſhall many be made Righteous.</p>
+            <p>Thus the cauſe of that Natural alienation from, and repugnance to any thing of good is eaſily diſco<g ref="char:EOLhyphen"/>ver'd. <hi>Adam</hi> became alienated in his mind, and in like manner all his poſterity, by reaſon of wicked works, and uncapable to render a due Reverence, Honour and Glory to the great Creator.</p>
+            <p>But the condemnation is not be<g ref="char:EOLhyphen"/>cauſe <hi>Adam</hi> ſinned, therefore as a Puniſhment due to that particular Sin, all his poſterity, ſave a few peculiarly reſpected, ſhall be pun<g ref="char:EOLhyphen"/>iſh'd: The Text ſays, <hi>Death paſs'd upon all, for that all have Sinned,</hi>
+            </p>
+            <p>Which leads me to meditate on, Firſt, The the cauſe of this univer<g ref="char:EOLhyphen"/>ſal deluge of Death; Secondly, The means of reſtoration to ſuch a condition, as to be capable of fulfil<g ref="char:EOLhyphen"/>ling our duties to God and Man.</p>
+            <p>Then firſt, The cauſe that Death has come upon all, being already in
+<pb n="19" facs="tcp:37639:15"/>
+a great meaſure evinc'd, I yet fur<g ref="char:EOLhyphen"/>ther proſecute to ſee more clearly the manner of it, which will more evidently diſcover the reaſon of thoſe innate inclinations to evil, which naturally ſway our minds.</p>
+            <p>As by one Man (ſaith the Scrip<g ref="char:EOLhyphen"/>ture before hinted) Sin entred the World, and Death by Sin,<note place="margin">Rom. 5.12.</note> ſo Death paſs'd upon all Men, for that all have Sinned: here 'tis manifeſt, that Sin entr'd the World by <hi>Adam's</hi> tranſ<g ref="char:EOLhyphen"/>greſſion, and Death was the conſe<g ref="char:EOLhyphen"/>quence unto him, even a dying from God; and the reaſon that Death came upon all his Progeny,<note place="margin">Rom. 6.23.</note> is be<g ref="char:EOLhyphen"/>cauſe all have Sinned, and the rea<g ref="char:EOLhyphen"/>ſon that all have Sinned is, becauſe they partook of,<note place="margin">Pſal. 51.5.</note> and are conceived in, that Seed and Nature of fallen <hi>Adam,</hi> which was of alienation from any thing of good, ſo that all the natural affections are deviating from God and good; all are by Na<g ref="char:EOLhyphen"/>ture Children of wrath and pro<g ref="char:EOLhyphen"/>penſe to evil, and conſequently all
+<pb n="20" facs="tcp:37639:16"/>
+have Sinned and fallen ſhort of the Glory of God,<note place="margin">Rom. 3.23.9.</note> and become the Objects of his wrath,<note place="margin">8.7.</note> and ſo in a condition incapable to glorifie their maker; which leads me to think of.</p>
+            <p>Secondly, the means of reſtora<g ref="char:EOLhyphen"/>tion.</p>
+            <p>As our <hi>Protoparent,</hi> by a tranſ<g ref="char:EOLhyphen"/>greſſion ſo damnable, as not only deſerving his own deſtruction,<note place="margin">Gen. 3.17.</note> but the Earth was juſtly curſed for it, did incur his Makers wrath, and was puniſh'd by deduction of his former felicity, and a corporal Death (which ſome are ready to think he had elſe been never curſed with) but more greivouſly, by the danger of an e<g ref="char:EOLhyphen"/>ternal woe, which was made the inevitable effect of unrepented Sin; and as his poſterity, by Sinning, tho' not after the ſame ſimilitude,<note place="margin">Rom. 5.14.</note> are juſtly expos'd to the ſame Miſery, and liable to undergo it; So the Lord in infinite compaſſion to the Works of his Hands, and in order
+<pb n="21" facs="tcp:37639:16"/>
+to reſtore the whole Creation into that Glorious Liberty which <hi>Adam</hi> before his fall enjoyed,<note place="margin">Rom. 8.21.</note> provided a means to be reconciled to poor, loſt, and miſerable Souls, that do nothing naturally but offend their Maker, and whoſe Sins and enor<g ref="char:EOLhyphen"/>mities are ſo encenſive to divine Juſtice, that nothing but an im<g ref="char:EOLhyphen"/>menſe mercy can expiate: A pro<g ref="char:EOLhyphen"/>miſe was made in love to Mankind, even inexpreſſible, in <hi>odium</hi> to the Serpent, who had almoſt ruin'd the Maſter-peice of God's Handy Work, and a juſt Damnation to fallen <hi>Lucifer,</hi> and all his followers, who not content with the ſtation which God had ſet them in, aſpir'd to a greater place, and ſo for them, as a Puniſhment for their preſump<g ref="char:EOLhyphen"/>tuous Pride, are chains of darkneſs for ever reſerved; which was,<note place="margin">Gen. 3.15.</note> the Seed of the Woman ſhall bruiſe the Serpent's Head.</p>
+            <p>Man was captivated by,<note place="margin">Epheſ. 2.1, 2, 3.</note> and be<g ref="char:EOLhyphen"/>came ſubject to the Prince of the
+<pb n="22" facs="tcp:37639:17"/>
+power of the Air, who rules in the Hearts of the Children of diſobedi<g ref="char:EOLhyphen"/>ence, and worthy of an eternal de<g ref="char:EOLhyphen"/>privation from all bliſs: But the promiſe was given forth, a redemp<g ref="char:EOLhyphen"/>tion from the power of Satan, and a reſtoration to the loſt felicity, Righteouſneſs, Knowledg and true Holineſs; and moreover (to the Glory of the all-wiſe Creator and Redeemer, be it ſaid) Man was up<g ref="char:EOLhyphen"/>on performing his part in the Cove<g ref="char:EOLhyphen"/>nant, entitled to an inheritance of a never ending Joy: The aſſurance and earneſt of which may cauſe all to Magnifie, Praiſe, Honour, and for ever adore that moſt imenſe clemency of God; as will the Con<g ref="char:EOLhyphen"/>demnation to eternal woe, cauſe a moſt deplorable reflection to thoſe Souls that have willfully ſlighted the means of Caeleſtial Bliſs,<note place="margin">1 Pet. 3.18.</note> which is the mercy of God in Jeſus Chriſt, the Son of his Love, the Seed of the Woman, who as he was God became alſo Man, making a com<g ref="char:EOLhyphen"/>plete
+<pb n="23" facs="tcp:37639:17"/>
+Saviour,<note place="margin">1 John 2.2. Heb. 9.28.</note> and laid down his Life for Sinners, and became a pro<g ref="char:EOLhyphen"/>pitiation for them, even for all that beleive in his Name, he procur'd for them a pardon by his Death, and Salvation by his Life, as 'tis ſaid, reconciled by his Death,<note place="margin">Rom. 5.10. Epheſ. 1.4. Rom. 8.29, 30. 2 Tim. 1.9. 1 Pet. 1.18.</note> and ſaved by his Life.</p>
+            <p>The Creator fore-ſeeing all things that ſhould come to paſs in time, fore-provided a Saviour for thoſe Creatures which were the princi<g ref="char:EOLunhyphen"/>pal part of his Workmanſhip, even for all Mankind; the myſtery of this contrivance Natural Reaſon cannot fathom, for as the Scripture teſtifies,<note place="margin">1 Cor 2.14.</note> the Natural Man perceives not the things of God, neither in<g ref="char:EOLhyphen"/>deed can he, for they are Spiritualy diſcerned, ſo no carnal comprehen<g ref="char:EOLhyphen"/>ſion can conceive or dive into this myſtical redemption.</p>
+            <p>In <hi>Adam</hi> all die,<note place="margin">1 Cor. 15.22.</note> in Chriſt all are made alive; in the original nature, the nature of fallen <hi>Adam,</hi>
+               <note place="margin">Epheſ. 2.1.</note> all the Children of men are Dead, in refer<g ref="char:EOLhyphen"/>ence
+<pb n="24" facs="tcp:37639:18"/>
+to the things of God: As a corporal Death deprives of the uſe of all the outward ſenſes, the ſight is loſt, notwithſtanding the Eyes remain; ſo hearing and the other ſenſes are taken away, altho' their proper organs are remaining: So is it with reſpect to the Soul of Man, 'tis depraved in its ſenſes, having Eyes it ſees not, having Ears it doth not hear, and tho' 'tis Life to the Body, yet it lives not, becauſe reſting in <hi>Adam</hi> (where all die) and under ſubjection to the princi<g ref="char:EOLhyphen"/>ple of diſobedience: 'Tis a moſt noble truth, that as the Soul of man animates the Body, ſo the Spi<g ref="char:EOLhyphen"/>rit of God gives Life to the Soul, the Soul is Life to the Body, and the Holy Spirit quickens the Soul; and as the Body without the Soul is Dead, and unable to perform any office, ſo is the Soul of man not enliven'd by the Spirit of God,<note place="margin">1 Cor. 15 45, 47.</note> the quickning Spirit, the Lord from Heaven, Dead and unable to per<g ref="char:EOLhyphen"/>form
+<pb n="25" facs="tcp:37639:18"/>
+its office to God, which is to fear and obey him.</p>
+            <p>To retreive and remedy this diſ<g ref="char:EOLhyphen"/>ability of the Soul, is the Son of God manifeſt,<note place="margin">1 John 3.5.8.</note> even to deſtroy the works of the Devil, which have fil<g ref="char:EOLhyphen"/>led the Soul, and bruiſed the heel of the Womans Seed, to bring it from under captivity to Sin and Sa<g ref="char:EOLhyphen"/>tan,<note place="margin">Rom. 8.21.</note> into the Glorious Liberty of the Sons of God; which is incom<g ref="char:EOLhyphen"/>prehenſible to the carnal in Heart, which the Natural and unrenewed man cannot perceive, but to the Spiritually minded man, to the Heavenly attracted Soul, to the Soul enflamed with a Celeſtial love, with aſpiring deſires, with noble and heroick affections, how con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enting! how raviſhing! how ſweetly conſolating! is the ſenſible enjoyment of a reſtoration to this Glorious Liberty, to this uncon<g ref="char:EOLhyphen"/>ceivable joy, peculiar to the redeem<g ref="char:EOLhyphen"/>ed Souls, when the morning Stars ſing together, and all the Sons of
+<pb n="26" facs="tcp:37639:19"/>
+God, adopted Children, pure, pea<g ref="char:EOLhyphen"/>ceable, and reconciled in Herrt and Soul, do ſing for Joy!</p>
+            <p>So that 'tis not for the carnal mind to pry into theſe Divine ſe<g ref="char:EOLhyphen"/>crets, which are diſcloſed to none but the Spiritually inclin'd, to thoſe whoſe affections are ſet on things above, whoſe converſation is in Heaven,<note place="margin">Mat. 6.21.</note> whoſe treaſures and hearts are there; theſe alone ſhall not on<g ref="char:EOLhyphen"/>ly know the means, but feel the power of redemption, the Blood of Jeſus to purge their Conſcien<g ref="char:EOLhyphen"/>ces from dead works,<note place="margin">Heb. 9.14.</note> to ſerve the living God; theſe will know that they muſt die unto, Sin and live un<g ref="char:EOLhyphen"/>to Righteouſneſs;<note place="margin">1 Pet. 2.24.3.18.</note> that the Redeem<g ref="char:EOLunhyphen"/>er came to deliver them from this preſent evil World; and that they are ſaved according to his mercy,<note place="margin">Gal. 1.4. Tit. 3.5, 6, 7.</note> by the waſhing of Regeneration, and the renewing of the Holy Ghoſt, that being Juſtified by his Grace, they may be made heirs of eternal Life. Further, that they
+<pb n="27" facs="tcp:37639:19"/>
+muſt not live to themſelves,<note place="margin">1 Cor. 5.15. Epheſ. 5.25.26.</note> but to him, which died for them, that he might ſanctifie and cleanſe them with the waſhing of Water by the Word, to preſent them to his Fa<g ref="char:EOLhyphen"/>ther, Holy and without Blemiſh; that he might redeem them from all Iniquity,<note place="margin">Tit. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 23, 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and purifie to himſelf a peculiar people, Zealous of good works: And that, Love, Peace,<note place="margin">Epheſ 5.22.</note> Joy, Long-ſuffering, Gentleneſs, Goodneſs, Faith, Meekneſs, Tem<g ref="char:EOLhyphen"/>perance, againſt which there is no Law, may abound amongſt them; and wherein they that are Chriſts, having Crucified the fleſh, with its affections and luſts do live and walk.</p>
+            <p>Now would'ſt thou know the means of redemption, and would'ſt thou be bleſt with the ſame; hear<g ref="char:EOLhyphen"/>ken and hear, and thy ſoul ſhall Live: Thou (haſt been, or ſtill) art by Nature a Child of Wrath, and thy affections are joyned to Earthly things, to Tranſitory and
+<pb n="28" facs="tcp:37639:20"/>
+Periſhing objects, that diſagree to the pure Nature of thy ſoul; but above all, that capital Luſt of Pride, which, as t'was moſt prevalent in the firſt Man <hi>Adam,</hi> takes up the greateſt part of thy heart; ſo that (not being yet acquainted with that power of Jeſus, which re<g ref="char:EOLhyphen"/>deems from ſin) thou art Exalted and Puffed up in thy Fleſhly mind, which covets after this world, and thereby art become wholly eſtran<g ref="char:EOLhyphen"/>ged from any good; to thee in this deſperate condition,<note place="margin">Mat. 11.28, 29, 30</note> does the Son of God cry, Come unto me, learn of me, I am meek, and lowly in heart, and if thou wilt be humble, I'le teach thee of my ways, my Doctrine ſhall be as the Diew, it ſhall inſpire Life into thy ſoul; (man lives not by Bread alone,<note place="margin">Mat. 4.4.</note> but by every word that proceeds out of the mouth of God:<note place="margin">Joh. 6.48.63.</note>) the words that I ſpeak unto thee, they are Spirit,<note place="margin">Mt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 18.11.</note> and they are Life; I am come to ſeek, and to ſave; I am
+<pb n="29" facs="tcp:37639:20"/>
+come to abaſe the Proud, and to exalt the Humble in ſoul; he that exalts himſelf ſhall be abaſed, but he that abaſes himſelf will I exalt; Take my Yoke upon thee, ſaith Jeſus, for thou'lt ſoon find it eaſie, and my burthen to be light; and follow me in the way of ſelf-deny<g ref="char:EOLhyphen"/>al, and of Regeneration; tho' thou art Blind I will reſtore thy ſight, tho' thou art Darkneſs I'le make thee light; nay, tho' thou art dead, I will give thee Life: It ſhall come to paſs, that the Dead ſhall hear the Voice of the Son of God, and thoſe that hear, ſhall live: Oh bleſſed promiſe! God is ſpeak<g ref="char:EOLhyphen"/>ing from Heaven by his Son, who is Infuſing Life, even his own Spi<g ref="char:EOLhyphen"/>rit, into the Souls, and making it to live: Then, the Dead cannot praiſe thee, neither can they that go down to the grave, celebrate thy Name; but the living, the living can praiſe thee, and magni<g ref="char:EOLhyphen"/>fie thy Glorious Name, who haſt
+<pb n="30" facs="tcp:37639:21"/>
+redeemed them by thy mighty Pow<g ref="char:EOLhyphen"/>er, from Death and deſtruction, from Sin and Satan, by thy preci<g ref="char:EOLhyphen"/>ous Blood, by thy virifying Life, by that word of eternal Life, by which the World was made, Man was created, and Man is redeemed again, through whom to the alwiſe, and almighty, Creator be ſounded never ending <hi>Anthems,</hi> and <hi>Hal<g ref="char:EOLhyphen"/>lelujah's,</hi> Glory and everlaſting Praiſe, <hi>Amen.</hi>
+            </p>
+            <p>Thus is the redeemed Soul en<g ref="char:EOLhyphen"/>gag'd to fear and obey the great reſtorer of breaches, and of paths to walk in,<note place="margin">John 13.15.</note> who as he left an ex<g ref="char:EOLhyphen"/>ample for us to follow his ſteps, not aſſuming Glory to himſelf, but ſub<g ref="char:EOLhyphen"/>mitting in all things to his Fathers will, and at length laid down his Life for his greateſt enemies, ſo,<note place="margin">1 Pet. 2.21.</note> muſt we thereby learn to walk in ſelf denial and newneſs of Life, in meekneſs and in humiliation, in ſubmiſion and pure obedience to the internal revelation of the Di<g ref="char:EOLhyphen"/>vine
+<pb n="31" facs="tcp:37639:21"/>
+word, which teaches to love enemies, to do good to them which hate us, to bleſs them that curſe and diſpitefully uſe us;<note place="margin">Heb. 12.1, 2, 3.</note> and to take him for our pattern, who endured the Croſs and deſpiſed the ſhame, for the joy that was ſet before him, who being without Sin, bore the puniſhment due for Sin, that Man might Sin no more, but be reſtor<g ref="char:EOLhyphen"/>ed by means of that Grace which came by Jeſus,<note place="margin">Joh. 1.17.</note> to ſuch a ſtate of Righteouſneſs and perfection, as to be enabled to fear and obey the great and merciful Creator, and therby obtain the unmerited reward of an eternal joy, overcoming the ſtrength of Satan through the pow<g ref="char:EOLhyphen"/>er of God, to him that overcomes (ſaith Jeſus) will I grant to ſit with me in my Fathers Throne,<note place="margin">Rev. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21.</note> and bleſ<g ref="char:EOLhyphen"/>ſed are they that do his Command<g ref="char:EOLhyphen"/>ments, that they may have right to the Tree of Life,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and may enter in through the gates into the City of God, the new <hi>Jeruſalem,</hi> the
+<pb n="32" facs="tcp:37639:22"/>
+Mother of the faithful who are brea<g ref="char:EOLhyphen"/>thing,<note place="margin">Rev. 10.6.22.12.</note> how long! Lord, how long! for him who ſaid, behold I come quickly and my reward is with me, to give every man according as his works ſhall be.</p>
+            <p>Is it ſo? hath the God of infinite mercy engag'd and incited us to fear and obey him by ſuch conſola<g ref="char:EOLhyphen"/>tory promiſes, ſuch Heavenly in<g ref="char:EOLhyphen"/>ducements! and has he deterr'd us from rebelling and committing evil againſt him, by dreadful and fear<g ref="char:EOLhyphen"/>ful threatnings, even eternal woe, and never ceaſing torture; how vi<g ref="char:EOLhyphen"/>gilant, how diligent, how conſide<g ref="char:EOLhyphen"/>rate ſhould the Rich Man be! he would be ready to ſay, I have been undeſervedly bleſt by a ſupream Hand, I have unworthely reccived of the bleſſings of Heaven, my temporal Goods are encreaſed, and worldly enjoyments are heap'd up<g ref="char:EOLhyphen"/>on me, ſhall I forget the hand that conferr'd them, ſhall I ingratefully neglect to glorifie him, that has
+<pb n="33" facs="tcp:37639:22"/>
+thus dignified me? Oh, no; But rather, I thank thee O Father, Lord of Heaven and Earth, I was needy, thou haſt ſupplied my wants, I was in diſtreſs, and thou haſt releived me, I am leſs than the leaſt of thy mercies, I will not fail to magnifie thy Name; not by my own induſ<g ref="char:EOLhyphen"/>try, ſo much as by thy bleſſing, does the world lend me its aid; by thy favour, not my worth, who have ſo much diſpleaſed thee, are Earthly Goods beneficial to me; I will not be puffed up with what thou haſt given me to glorifie thee with, but will endeavour ſo to uſe theſe temporal bleſſings as to an<g ref="char:EOLhyphen"/>ſwer the end for which I was poſ<g ref="char:EOLhyphen"/>ſeſed of them, and will learn to make all conſiderations tend to thy Honour, who haſt been thus mer<g ref="char:EOLhyphen"/>ciful to me.</p>
+            <p>And thus will the wiſe Man ſay; I am naturally endued with pro<g ref="char:EOLhyphen"/>found Sagacity, with a deep and penetrating Judgment, with a ſound
+<pb n="34" facs="tcp:37639:23"/>
+intellect, and with a ſharp and peir<g ref="char:EOLhyphen"/>cing fancy, for what end am I ſo qualified, is it to employ my ſelf in ſearch of ſuch knowledge, which not only bereaves me of my fleet<g ref="char:EOLhyphen"/>ing time, but will alſo fail to be a<g ref="char:EOLhyphen"/>ny profit in the end; ſhall I exer<g ref="char:EOLhyphen"/>ciſe my wit in ſuch matters that will ſhew I am void of Wiſdom? or ſhall I make uſe of my rational in<g ref="char:EOLhyphen"/>tellect no better, than to fall ſhort of a divine underſtanding! Oh no, but rather, the great God has made me capable to do him eminent ſer<g ref="char:EOLhyphen"/>vice; I am naturally fitted to re<g ref="char:EOLhyphen"/>ceive ſuch ſpiritual gifts that may qualifie me for a Servant to his he<g ref="char:EOLhyphen"/>ritage; I will therefore ſubmit and bend to him, who will yet further furniſh me with more Noble parts; for I remember the holy Man ſaith,<note place="margin">Pſal. 111.10.</note> 
+               <hi>The fear of the Lord is the begin<g ref="char:EOLhyphen"/>ning of Wiſdom, a good underſtand<g ref="char:EOLhyphen"/>ing have they that depart from Evil;</hi> I therefore learn to be humble and not puffed up, as knowing 'tis but
+<pb n="35" facs="tcp:37639:23"/>
+Earthly Wiſdom which exalts it ſelf, and will ſupplicate the Lord for Wiſdom of a Celeſtial Nature, that will make me wiſe to Salvati<g ref="char:EOLhyphen"/>on, which will ſanctifie my natu<g ref="char:EOLhyphen"/>ral reaſon, and make my innate ge<g ref="char:EOLhyphen"/>nus inclinable to obey its Heavenly dictates; I have no reaſon to be proud of my natural abilities, as knowing I cannot attain to be for ever happy thereby, I cannot con<g ref="char:EOLhyphen"/>ceive ſufficiently of God by the ex<g ref="char:EOLhyphen"/>erciſe of my own conceptions, the natural Man perceives not the things of God, neither can he,<note place="margin">1 Cor. 2.14.</note> for they are Spiritually diſcerned; So that I crave wiſdom from above which will let me know, that I ſhould elſe have thought my ſelf intelligent, when I neither knew my ſelf, nor the means of doing ſo, much leſs to have been endued with ſuch a knowledge, as will be Life eternal to my never dying Soul,<note place="margin">Joh. 17.3.</note> which is to know the only true God, and Jeſus Chriſt whom he hath ſent.</p>
+            <p>
+               <pb n="36" facs="tcp:37639:24"/>And if the Voluptous were not leſs careful to ſatisfie their Spiritu<g ref="char:EOLhyphen"/>al wants, than to provide for their corporal pleaſures, there would ap<g ref="char:EOLhyphen"/>pear ſome acknowledgments of a ſupream favour to them; inſomuch as health, ſtrength, and ſufficient neceſſaries are ſo plentifully afford<g ref="char:EOLhyphen"/>ed, and in penitential tears they would be ready to cry out. How have we abuſed the manifold mer<g ref="char:EOLhyphen"/>cies of God, turning into laciveouſ<g ref="char:EOLhyphen"/>neſs and luxury thoſe enjoyments which, we have cauſe to fear, may be greatly wanting to us, as a pu<g ref="char:EOLhyphen"/>niſhment for our profuſe and riot<g ref="char:EOLhyphen"/>ous courſes; we are now ſenſible that a divine Majeſty is offended, that our prophane lives have ren<g ref="char:EOLhyphen"/>der'd us the objects of God's diſ<g ref="char:EOLhyphen"/>pleaſure; and that if his mercy doth not exceed our almoſt innumerable Sins, we muſt to all eternity remain the monuments of his wrath and ſore diſpleaſure: God is merciful<g ref="char:EOLhyphen"/>ly pleaſed to allow us the uſe of
+<pb n="37" facs="tcp:37639:24"/>
+thoſe neceſſaries, and that in a plen<g ref="char:EOLhyphen"/>tiful manner, which others more worthy are deprived of; but now is his love yet further manifeſted, in given us to ſee the miſery which will inevitably follow thoſe unre<g ref="char:EOLhyphen"/>pented Sins, and not only ſo, but in given us hearts to bewail our former vicious courſes, and to praiſe him, whoſe bleſſings inwardly and outwardly have been largely ex<g ref="char:EOLhyphen"/>tended to us.</p>
+            <p>And as the Lord in mercy hath diſpenc'd an appearance, and gift of Divine Grace, to every particu<g ref="char:EOLhyphen"/>lar Soul,<note place="margin">Tit. 2.11.12.</note> in order to teach the de<g ref="char:EOLhyphen"/>nial of all ungodlineſs and worldly laſts, and to live Righteouſly, So<g ref="char:EOLhyphen"/>berly, and Godly in this preſent World.</p>
+            <p>So, if there was not wanting a diligent attention to its Heavenly inſtructions, how great alteration would apear in the world; that whereas unrighteouſneſs, propha<g ref="char:EOLhyphen"/>neſs and impiety are daily preſen<g ref="char:EOLhyphen"/>ted
+<pb n="38" facs="tcp:37639:25"/>
+under a profeſſion of Religion, then would their oppoſite virtues be a means to draw down the favour of Heaven upon Men; as the con<g ref="char:EOLhyphen"/>trary are its dreadful Judgments, and by a due Adheſion, in every individual Soul, to the manifeſta<g ref="char:EOLhyphen"/>tion of this inward teacher,<note place="margin">John 1.4, 5.</note> which ſhines in the dark hearts of Men, tho' they comprehend or conceive it not; would a ſenſe be rais'd of their miſery in an unreformed ſtate; and deſires and breathings be begot<g ref="char:EOLhyphen"/>ten,<note place="margin">Mat. 11.28.30.</note> to come unto Chriſt as heavy laden, that he may give them reſt; and learn of him who is meek and lowly in heart, that they find peace to their Souls: Then they will not only know, but have power alſo, to perform that which is requir'd of all, even to <hi>Fear God and keep his Commandments,</hi> which is the <hi>whole duty of Man.</hi>
+            </p>
+            <p>And then they will not ſtand in need of humane doctrine; they will have a teacher near unto them,
+<pb n="21" facs="tcp:37639:25"/>
+unto which they do well to take heed (as St. <hi>Peter</hi> ſaith) as to a light which ſhines in a dark place,<note place="margin">2 Pet. 1.19.</note> 
+               <hi>&amp;c.</hi> They'l know their duty and, more than ſo, they will not be ſlack to render it in all reſpects, both to God by living to his Glory, and to their Neighbours by dwelling in Love and Charity with them.</p>
+            <p>For as nothing leſs than ſuch a Life will beſpeak them the ſervants of God, ſo nothing more is want<g ref="char:EOLhyphen"/>ing: 'tis their whole duty, com<g ref="char:EOLhyphen"/>prehenſive of Faith, Righteouſneſs, Charity; and all good works, the Fruits of the Spirit, the fulfilling of the Law, one tittle of which ſhall not paſs away, or be made void; the loving of God with all the heart, and their Neighbours as themſelves, and the effect and product of the Miniſtry of Jeſus Chriſt,<note place="margin">Acts 26.18.</note> which propoſes a converſion from dark<g ref="char:EOLhyphen"/>neſs to light, from the power of Satan to God, and from a corrupt and repugnant, to a clean and re<g ref="char:EOLhyphen"/>generate
+<pb n="38" facs="tcp:37639:26"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:37639:26"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="40" facs="tcp:37639:27"/>
+mind, as its principal ſcope, whereby the Goſpel, the Power, and Croſs of Jeſus, will be embra<g ref="char:EOLhyphen"/>ced, effectual, and eaſie to be bore; and the conſequence, glad tydings, reformation, and Peace to the Soul, witneſſed and enjoyed: which is the end of all, and the crown of all: <hi>I have fought a good fight,</hi> ſaith the Holy Man,<note place="margin">2 Tim. 4.8.</note> 
+               <hi>I have finiſhed my courſe, I have kept the faith, henceforth is laid up for me a Crown of Righteouſneſs.</hi> Oh the comfort! the joy! and cauſe of rejoycing! has that Man which ſo lives in this world, as to anſwer his end! He that offereth Praiſe, glo<g ref="char:EOLhyphen"/>rifieth me,<note place="margin">Pſal. 50.23.</note> and to him that order<g ref="char:EOLhyphen"/>eth his Converſation aright, will I ſhew the Salvation of God.</p>
+            <p>Oh that Men would be perſwa<g ref="char:EOLhyphen"/>ded to conſider that,</p>
+            <p>God ſhall bring into Judgment, every Work, with every ſecret thing, whether it be good or whe<g ref="char:EOLhyphen"/>ther it be evil; ſurely then there would be ſomething of a concern
+<pb n="41" facs="tcp:37639:27"/>
+after this manner: If it be ſo (as 'tis moſt certain) that the great Judge of the World takes ſuch a ſtrict obſervance of all my Actions, be they never ſo Secret, nay, of all my moſt hidden thoughts, as that he will one day cauſe me to give an account of them all; <hi>For every Idle word ſhall Men give an account in the day of Judgment:</hi> How am I engag'd to be circumſpect and watchful? in all things, not only in actions that have reference to Men, and in my words, but alſo in my thoughts and cogitations, which none but an al-ſeeing God can charge with matter of evil: In a ſenſe of his al-knowing Power, and of my own impotency, I'le beg of him to give me Grace ſo to Live in this world, as that I may not, by reaſon of my neglect, be debar'd of thoſe joys in the world to come; and further, I am ſenſible upon a moſt ſerious and retired examinati<g ref="char:EOLhyphen"/>on, that 'tis by, and through the
+<pb n="42" facs="tcp:37639:28"/>
+               <hi>illumination</hi> of a Divine Light, that I ſee the evil of my ways, and the miſery enſuing ſuch an unlimited courſe of Life; I am therefore wil<g ref="char:EOLhyphen"/>ling to deny my ſelf, and take up a <hi>Dayly Croſs,</hi> that I may know the work of Reformation and Regene<g ref="char:EOLhyphen"/>ration, the way to the Kingdom, wrought;<note place="margin">Joh. 3.3.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>nleſs a Man be Born a<g ref="char:EOLhyphen"/>gain he cannot enter the Kingdom of Heaven;</hi> And in the firſt Place, the Fountain of all Defilements and Corruptions being in my Heart,<note place="margin">Mat. 15.18.20.</note> I'le cry with the <hi>Pſalmiſt, Creat in me a new Heart, O Lord, and renew a right Spirit within me;</hi> for unleſs the inſide be clean, the outſide will not be ſo; whilſt the principle of hatred and envy is predominant in me, 'tis impoſſible I ſhould bring forth works of Love and Charity; and whilſt I am under the power of the Devil,<note place="margin">1 Joh. 3.</note> doing his works, I can by no means be the ſervant of God; I cannot ſerve two Maſters, if the power of Satan bear rule in me, I
+<pb n="43" facs="tcp:37639:28"/>
+can be no ſubject of Jeſus; I can<g ref="char:EOLhyphen"/>not have right to call him Lord;<note place="margin">Luke 6.46.</note> for I begin to be ſenſible that not he, who ſays, Lord, Lord, but that does his will, is a Servant to him, and of the Juſtice of that re<g ref="char:EOLhyphen"/>buke, why call ye me Lord, and do not the things which I com<g ref="char:EOLhyphen"/>mand ye: And when I feel the vi<g ref="char:EOLhyphen"/>ſitation of the love of God to my Soul,<note place="margin">2 Cor. 4.6.</note> opening the Eyes of my un<g ref="char:EOLhyphen"/>derſtanding, then ſhall I ſee how wretched and miſerable I am; as alſo, the exclency of the Glory of God, who hath for that end cauſed his Light to appear; now and not till now, do I perceive the vanity of all Created things, and my Soul is effuſed with breathings to the Lord, to give me a further revela<g ref="char:EOLhyphen"/>tion of his will, and to create a conformity in my depraved Heart to the ſame; whereby I ſhall ſee an abſolute neceſſity of ſober and ſe<g ref="char:EOLhyphen"/>rious conſideration of all my doings; and the power of Jeſus, prevailing
+<pb n="44" facs="tcp:37639:29"/>
+in my Soul, I doubt not of ability to reſiſt all temptations, and to walk, not as a Fool, in my former vicious lewdneſs, but as one that is awaken'd from the ſleep of Sin, and raiſed from the grave of Iniqui<g ref="char:EOLhyphen"/>ty, to redeem the time which I have ſpent in ſuch an enormous manner as declares, I neither endeavour'd to anſwer the end of my coming into the World, nor was ſenſible, of the neceſſity of the ſame.</p>
+            <p>When ſuch thoughts and conſi<g ref="char:EOLhyphen"/>derations have poſſeſſed the Hearts of Men, they'l remember that as there is no way to avoid or eſcape the Judgment of God, ſo alſo, that he will execute his Juſt and righte<g ref="char:EOLhyphen"/>ous decrees upon all without parti<g ref="char:EOLhyphen"/>allity or reſpect of Perſons,<note place="margin">Rom. 2.6.11.</note> as 'tis ſaid, God will render to every Man according to his works, to thoſe that by a patient continuance in well doing, ſeek for Glory, Hon<g ref="char:EOLhyphen"/>our, and Immortallity, Eternal Life, but to thoſe that are conten<g ref="char:EOLhyphen"/>tious,
+<pb n="45" facs="tcp:37639:29"/>
+and do not obey the Truth, but obey unrighteouſneſs, indigna<g ref="char:EOLhyphen"/>tion and wrath, tribulation and an<g ref="char:EOLhyphen"/>guiſh upon every Soul of Man that doth evil, upon the <hi>Jew</hi> firſt, and alſo upon the <hi>Gentile.</hi> but Glory, Honour, and Peace, to every Soul of Man that worketh good, to the <hi>Jew</hi> firſt, and alſo to the <hi>Gentile,</hi> for there is no reſpect of Perſons with God.</p>
+            <p>Then none ſhould preſume to think, that by vertue of any Per<g ref="char:EOLhyphen"/>ſonal predeſtination, they ſhall, if evil doers, be exempted from the Sentence of, <hi>go ye curſed:</hi> For 'tis apparent, that as the Lord is no reſpecter of Perſons, ſo will he bring into Judgment the works of every Man.</p>
+            <p>And in vain will it be for any to plead at the Judgment Day after this manner.</p>
+            <p>Lord, let me into thy Kingdom, whom thou Elected'ſt before the foundation of the World, not by
+<pb n="46" facs="tcp:37639:30"/>
+my foreſeen Holineſs, but in thy meer pleaſure alone, as thou didſt for the ſame reaſon, reject the great<g ref="char:EOLhyphen"/>eſt number in the World, and as 'twas thy pleaſure and mercy to make me one of thy Elect, ſo whol<g ref="char:EOLhyphen"/>ly confiding therein, I look'd to be taken for a faithful Servant, becauſe thou art a faithful Maſter, and ſo took no care to perform any thing of Service unto thee, as believing, that the Blood of thy Son being ſhed for me, there was no need of any thing for me to doe; ſo that whatſoever Fruits of Piety and Ho<g ref="char:EOLhyphen"/>lineſs ſhould through thy power be produced by me, would be of no regard: Therefore relying upon thee, truſting in thee, and believe<g ref="char:EOLhyphen"/>ing that thou would'ſt not look up<g ref="char:EOLhyphen"/>on me as I am in a ſtate of unclean<g ref="char:EOLhyphen"/>neſs and corruption, but through Chriſt, as I am in him, I caſt my ſelf upon thee, and truſt wholy in the merit's of a crucified Saviour, who came into the World to ſave
+<pb n="47" facs="tcp:37639:30"/>
+Sinners: But to ſuch an exclama<g ref="char:EOLhyphen"/>tion, what will the Righteous God reply? Surely he will not ſay, I have choſen you reſpectively in my good will and pleaſure, that you may Glorifie me World without end, and have ordained to Deſtruction, the greateſt part of your fellow Crea<g ref="char:EOLhyphen"/>tures, not by reaſon they are worſe, or you more worthy, but that they may Glorifie me in Hell and you in Heaven; and as I have mercy on you, ſo will avenge my ſelf on them that have in the Loins of <hi>Adam</hi> Sinned againſt me:<note place="margin">Mat. 25.12.41.</note> But he will ſay in that day, to thoſe that have not fear'd and obey'd him; Depart from me, ye workers of Iniquity, I know ye not, with what confi<g ref="char:EOLhyphen"/>dence can you look for admittance into my Kingdom, when you know your ſelves unworthy and unfit for ſuch a Glorious place,<note place="margin">Rev. 21, 27.</note> where no unclean thing can enter, or nothing that is defiled? how can you expect that I ſhould hear your Cries, when
+<pb n="48" facs="tcp:37639:31"/>
+you would not hear mine no, no.</p>
+            <p>
+               <note place="margin">Prov. 1.24.30.</note>Becauſe I have called and ye re<g ref="char:EOLhyphen"/>fuſed, I have ſtretched out my hand and no man regarded: But ye have ſet at nought all my Counſel and would hear none of my reproof. I alſo will laugh at your calamity, I will mock when your fear cometh, when your fear cometh as deſolati<g ref="char:EOLhyphen"/>on, and your Deſtruction cometh as a Whirl-wind, when diſtreſs and anguiſh cometh upon you. Then (diſmal and terrible will it be at that time) ſhall they call upon me but I will not anſwer, they ſhall ſeek me early but they ſhall not find me. (And mark the juſt occaſion of it) For that they hated knowledge, and did not chooſe the fear of the Lord. They would hear none of my coun<g ref="char:EOLhyphen"/>ſel and deſpiſed all my reproof.</p>
+            <p>Thus will the Righteous God plead with the workers of Iniquity, who are covering themſelves,<note place="margin">Iſa. 30.1.</note> and not with the Spirit of the Lord, that preſume to ſay, we are cover'd with
+<pb n="49" facs="tcp:37639:31"/>
+the Righteouſneſs of the Lamb, ju<g ref="char:EOLhyphen"/>ſtified by the Blood of Chriſt: when they are inwardly ravening Wolfes, corrupted and in a ſtate of abomi<g ref="char:EOLhyphen"/>nation, and have not come ſo far (nay have not Faith to beleive they ever can be able) as to know the Blood of Chriſt to purge their cor<g ref="char:EOLhyphen"/>rupt and defiled Conſciences from dead works, perform'd without a renewed Heart, to ſerve the living God in pure and hearty obedience to all his holy Laws.</p>
+            <p>Such are ready to forget, or at leaſt don't ſolidly think that they muſt be called before the Judgment ſeat of God, there to give an exact and ſtrict account of the deeds done in the Body,<note place="margin">2 Cor. 5.10.</note> and to receive a re<g ref="char:EOLhyphen"/>ward according to them; for every ſecret Action, for every hidden Thought, muſt they reckon.</p>
+            <p>And all that cannot ſtand this fiery Trial, muſt be conſumed by it: Therefore came the word of the Lord to the Prophet after this
+<pb n="50" facs="tcp:37639:32"/>
+manner,<note place="margin">Iſa. 33.13, 16.</note> 
+               <hi>Hear ye that are a far off, what I have done, and ye that are near acknowledge my might:</hi> The Sinners in <hi>Zion</hi> are afraid, fearful<g ref="char:EOLhyphen"/>neſs hath ſurpriſed the Hypocrites, who among us ſhall dwell with the devouring Fire? who amongſt us ſhall dwell with everlaſting Burn<g ref="char:EOLhyphen"/>ings? He that walketh Righteouſ<g ref="char:EOLunhyphen"/>ly and ſpeaketh uprightly — He ſhall dwell on high; his place of defence ſhall be the munition of Rocks, Bread ſhall be given him, his waters ſhall be ſure.</p>
+            <p>Oh the Bleſſed eſtate of the Righ<g ref="char:EOLhyphen"/>teous! who is it will not cry? Oh that I might die the death of the Righteous, Oh that my latter end may be like unto his! He ſhall lay down his Head in Peace, and nothing ſhall make him affraid; in a peaceable and quiet Conſcience ſhall he leave the world, no terrours of Soul ſhall aſſail him: But in a certain aſſurance of endleſs Peace, his Soul is ſweetly reſign'd to the
+<pb n="51" facs="tcp:37639:32"/>
+will of his merciful God; he takes his leave of the world without re<g ref="char:EOLhyphen"/>luctance or trouble in Spirit, and why ſo? Oh who can declare that comfort and ſweet conſolation that he feels to abound in his Soul! He is ready to lanch forth into that boundleſs Ocean of never ending joy,<note place="margin">Rev. 7.</note> where the Wicked ceaſe from troubling, and all ſorrow is done away! Such a Man overcomes that unwillingneſs to die, which is inherent to our Nature, and how ſo? He is ſure that when his Earth<g ref="char:EOLhyphen"/>ly Tabernacle is diſſolved,<note place="margin">2 Cor. 5.1.</note> there's an Habitation provided for him, e<g ref="char:EOLunhyphen"/>ternally in the Heavens; for this he grones earneſtly, and deſires to be clothed with, that Mortality may be ſwallowed up of Life;<note place="margin">1 Cor. 15.55.</note> then can he ſay, <hi>Oh Death where is thy ſting! Oh Grave where is thy Victory!</hi> whilſt he is at home in the Body, is abſent from the Lord, from the full and boundleſs enjoyment of his Love, and Light; and walking by Faith,
+<pb n="52" facs="tcp:37639:33"/>
+not by ſight, is willing to be ab<g ref="char:EOLhyphen"/>ſent from the Body, and preſent with the Lord.</p>
+            <p>But with the Wicked it is not ſo, he has ſpent his days in contempt to the Lord, in deſpight to his holy Laws, but the time of his departure is at hand, and now he begins to remember, how he hath provoked a juſt and merciful God, who would have had mercy upon him, and would have reclaim'd him from the evil of his ways; but he ſlighted his Viſitations, ſet at nought his counſel, would none of his re<g ref="char:EOLhyphen"/>proof, perſever'd in his impious courſes, and did not conſider his latter end, wherefore has terrour and torture already ſeiſed his Soul, the Judgments of a Righteous God begin to take hold upon him, now his Conſcience more then a Thou<g ref="char:EOLhyphen"/>ſand witneſſes, doth condemn him and God who is greater doth con<g ref="char:EOLhyphen"/>demn him alſo: Now he feels an Hell upon Earth, that once had his
+<pb n="53" facs="tcp:37639:33"/>
+Heaven here! Now he that had as much of Heaven as he deſired, hath more of Hell than he can bear! now he begins that work of repentance, which here ſhould have had end! Now he cries for a longer time, that has ſo greivouſly ſpent his own! now I'le part with all to have peace to my tormented Soul, that would not once part with the leaſt of my pleaſures for it; But ah, remember, thou in thy Life time,<note place="margin">Luke 16.25.</note> how did the Lord ſtrive to do thee good? how many years did he call unto thee, be<g ref="char:EOLhyphen"/>fore he gave thee over to a reprobate mind? he called and thou would'ſt not hear, now he will not hear thy woful cries, but will execute his ter<g ref="char:EOLhyphen"/>rible Judgments upon thee; and none ſhall be able to deliver: De<g ref="char:EOLhyphen"/>ſtruction comes as a Whirl-wind de<g ref="char:EOLhyphen"/>ſolation and miſery ſurrounds on e<g ref="char:EOLhyphen"/>very ſide! now the ſight of his Friends, that once rejoyc'd, help to aggravate the greif of his Soul, he ſpent his time in jollitry with them,
+<pb n="54" facs="tcp:37639:34"/>
+and forgot the Lord his maker, and now he ſorrowfully warns them, that as he muſt to all Eternity be curſed with an inevitable woe, ſo muſt they beware,<note place="margin">Luke 16.28.</note> leſt they come into this place of Torment! now Hell is no longer feign'd to deterr him, but diſmally felt to damn him! now Religion is no longer a Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick deſign, but the neglect proves per<g ref="char:EOLhyphen"/>petual Damnation! now ther's an overruling God, that will bring all into Judgment, for he feels the weight thereof, ſinking his Soul down into everlaſting pangs! now he that enjoy'd the unbouaded plea<g ref="char:EOLhyphen"/>ſures of this world, is enjoyn'd to bear the never ended plagues of a<g ref="char:EOLhyphen"/>nother.</p>
+            <p>The thoughts of which, may lay us low and humble, and cauſe us to ſeek him that will ſecure us from ſuch a deplorable condition, of which too many are inſenſible, but ('tis to be fear'd) will undergoe at laſt: What elſe can the Wicked
+<pb n="55" facs="tcp:37639:34"/>
+look for, but the fearful Judgments of a revenging Fire? which will burn up all the proud, and workers of Iniquity, they ſhall be all as ſtub<g ref="char:EOLhyphen"/>ble in this terrible day of the Lord:<note place="margin">Mal. 4.1, 2.</note> But to you that fear my name (be<g ref="char:EOLhyphen"/>hold the repeated promiſes of joy to them that fear God) ſhall the Sun of Righteouſneſs ariſe with healing under his wings, <hi>&amp;c.</hi>
+            </p>
+            <p>And we know that he is riſen ac<g ref="char:EOLhyphen"/>cording to his promiſe, and by the brightneſs of his appearance hath diſſipated the darkneſs of our Hearts, and diſcover'd the corruption of them, and by the vertue of this his ariſing, is healing adminiſter'd to our diſeaſed Souls, he hath cured us of our Infirmities, and made us ſtrong in the Lord and in the power of his might; So that we who have em<g ref="char:EOLhyphen"/>braced him in this Spiritual appear<g ref="char:EOLhyphen"/>ance, are enabled to run the way of his Commandment with great delight: having open'd to him who brings refreſhment with him,
+<pb n="56" facs="tcp:37639:35"/>
+Spiritual food and nouriſhm<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> will ſup with him (hath he <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mis'd) and he with me;<note place="margin">Rev. 3.20.</note> and we encourag'd in this our travel, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on our courſe and keep our Fait<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe we are aſſured, that a crow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Righteouſneſs,<note place="margin">2 Tim. 4.8.</note> will the Lord to Righteous Judge give to all the that love his appearing: And w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can without preſumption (glory <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God in the higheſt) bear an exper<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mental teſtimony to the words <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Holy <hi>Pſalmiſt.</hi>
+            </p>
+            <p>
+               <note place="margin">Pſalm. 1.1, 2, 3.</note>
+               <hi>Bleſſed is the Man that walket<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not in the counſel of the ungodly nor ſtandeth in the way of Sinner nor ſitteth in the ſeat of the Scornfu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> But his delight is in the Law of t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lord, and in his Law doth he med<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tate day and night; And he ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> like a Tree planted by the Rivers <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> water, that bringeth forth his Fru<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in his Seaſon; his Leaf alſo ſhall n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wither; and whatſoever he doeth ſhall Proſper.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
